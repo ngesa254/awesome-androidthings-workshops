@@ -1,4 +1,5 @@
 # awesome-androidthings-workshops
+
 📚 List of awesome android things workshop for learning Android Things
 
 <img src="android-things.png" width="500px"/>
@@ -8,7 +9,12 @@ Workshops
 - [Android Things Workshop, DevFest Berlin 2017](https://github.com/gdg-berlin-android/android-things-workshop)
 - [Hands-on Lab Android Things - Connected catapult!](https://github.com/eyal-lezmy/android-things-workshop)
 
-
+Codelabs
+--------
+- [Android Things Weather Station - Google ](https://codelabs.developers.google.com/codelabs/androidthings-weatherstation)
+- [Android Things Peripheral I/O - Google ](https://codelabs.developers.google.com/codelabs/androidthings-peripherals)
+- [Android Things Image Classifier - Google ](https://codelabs.developers.google.com/codelabs/androidthings-classifier)
+- [Android Things Assistant - Google ](https://codelabs.developers.google.com/codelabs/androidthings-assistant)
 
 TODO
 ----
