@@ -5,7 +5,7 @@
 
 Workshops
 --------
-- [Android Things Workshop, DevFest Berlin 2017] (https://github.com/gdg-berlin-android/android-things-workshop)
+- [Android Things Workshop, DevFest Berlin 2017](https://github.com/gdg-berlin-android/android-things-workshop)
 
 TODO
 ----
