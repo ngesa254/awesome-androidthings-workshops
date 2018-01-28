@@ -6,6 +6,9 @@
 Workshops
 --------
 - [Android Things Workshop, DevFest Berlin 2017](https://github.com/gdg-berlin-android/android-things-workshop)
+- [Hands-on Lab Android Things - Connected catapult!](https://github.com/eyal-lezmy/android-things-workshop)
+
+
 
 TODO
 ----
