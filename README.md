@@ -3,6 +3,13 @@
 
 <img src="android-things.png" width="500px"/>
 
+Workshops
+--------
+
+TODO
+----
+Updating it on daily basis as much as possible so that we will be always updated
+
 Get in touch 
 ------------
 
@@ -12,10 +19,6 @@ Please feel free to contact me if you have any questions, ideas or even if you j
 - [Medium](https://medium.com/@ngesa254)
 - [Facebook](https://web.facebook.com/marvinngesa)
 - [LinkedIn](https://www.linkedin.com/in/engngesamarvin) 
-
-TODO
-----
-Updating it on daily basis as much as possible so that we will be always updated
 
 References
 ----------
